@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(180, 180, 180);
+}
+
+.wrapper {
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  width: 300px;
+  margin: 150px auto;
+}
